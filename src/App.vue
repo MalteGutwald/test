@@ -1,39 +1,30 @@
 <template>
   <div id="app">
-    <Header />
+    <Navbar />
     <router-view/>
   </div>
 </template>
 
 <script>
-import Header from "./components/Layout/Header";
+import Navbar from "./components/Layout/Navbar";
 export default {
     name:"app",
     components: {
-      Header
+      Navbar,
     }
 }
 </script>
-
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+    Footer{
+      font-weight: bold;
+      font-weight: 600;
+      text-align: left;
+      padding-top: 1%;
+      padding-left: 5%;
+      padding-right:5%;
 
-#nav {
-  padding: 30px;
-}
 
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-#nav a.router-link-exact-active {
-  color: #42b983;
-}
+      position: fixed;
+      bottom: 0;
+    }
 </style>
