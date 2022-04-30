@@ -6,9 +6,9 @@
       <h3 class="center">Meine Fähigkeiten und Qullifikationen:</h3>
 
       <p class="studies">Ich habe den Bachelor Studiengang Naturwissenschaftliche Informatik an der Universität Bielefeld im Jahr 2022 abgeschlossen 
-        <a href="https://drive.google.com/file/d/11UnfVTxFSIRATEOoEvsqa5UQ0x2Coe1Y/view?usp=sharing">(Bachelotzeugnis PDF)</a>. In dieser Zeit lernte
-         ich einiges über Softwareentwicklung mit einem zusätzlich ergänzenden, naturwissenschaftliche Anteil. Die folgenden Bestandteile meines Studiums
-          möchte ich dabei hervorstellen:<br><br> 
+        <a href="https://drive.google.com/file/d/11UnfVTxFSIRATEOoEvsqa5UQ0x2Coe1Y/view?usp=sharing">(Bachelorzeugnis PDF)</a>. In dieser Zeit lernte
+         ich einiges über Softwareentwicklung mit einem zusätzlich ergänzenden, naturwissenschaftlichem Anteil. Die folgenden Bestandteile meines Studiums
+          möchte ich dabei hervorheben:<br><br> 
       </p>
         <ul>
         <li><p v-on:click='show1()'>
