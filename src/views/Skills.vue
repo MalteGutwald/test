@@ -3,9 +3,9 @@
 <template>
   <div>
     <div class="about">
-      <h3 class="center">Meine Fähigkeiten und Qullifikationen:</h3>
+      <h3 class="center">Meine Fähigkeiten und Qualifikationen:</h3>
 
-      <p class="studies">Ich habe den Bachelor Studiengang Naturwissenschaftliche Informatik an der Universität Bielefeld im Jahr 2022 abgeschlossen 
+      <p class="padding">Ich habe den Bachelor Studiengang Naturwissenschaftliche Informatik an der Universität Bielefeld im Jahr 2022 abgeschlossen 
         <a href="https://drive.google.com/file/d/11UnfVTxFSIRATEOoEvsqa5UQ0x2Coe1Y/view?usp=sharing">(Bachelorzeugnis PDF)</a>. In dieser Zeit lernte
          ich einiges über Softwareentwicklung mit einem zusätzlich ergänzenden, naturwissenschaftlichem Anteil. Die folgenden Bestandteile meines Studiums
           möchte ich dabei hervorheben:<br><br> 
@@ -18,17 +18,17 @@
   
         <div id="myDIV1" style="display: none">
           <p>
-            Im Vorfeld meiner Arbeit wurde schon vieles von den Entwicklern des Oberprojekts Biigle 2.0 geschaffen. Dabei handelt es sich um ein Online-Tool, dessen Fokus speziell auf
-            der Annotation von Meeresbildern liegt.<br><br>
-            In diesem Projekt erweiterte ich Biigle um eine weitere Anwendung. Diese Anwendung
-            wurde Biigle-Grip benannt. Der Name Grip setzt sich dabei aus <strong>Gri</strong>d <strong>P</strong>atch-Annotation zusammen. Der Mittelpunkt dieser Arbeit bildet dabei Teilbilder spezifischer Größe zusammen mit einem Label abzuspeichern. Dies soll der Klassizierung von
+            Im Vorfeld meiner Arbeit wurde schon Vieles von den Entwicklern des Oberprojekts Biigle 2.0 geschaffen. Dabei handelt es sich um ein Online-Tool, 
+            dessen Fokus speziell auf der Annotation von Meeresbildern liegt.<br><br>In diesem Projekt erweiterte ich Biigle um eine weitere Anwendung. Diese Anwendung
+            wurde Biigle-Grip benannt. Der Name Grip setzt sich dabei aus <strong>Gri</strong>d <strong>P</strong>atch-Annotation zusammen. Der Mittelpunkt 
+            dieser Arbeit konzentrierte sich dabei Teilbilder spezifischer Größe, zusammen mit einem Label, abzuspeichern. Dies soll der Klassizierung von
             Interessensobjekten dienen. Ein Grip-Captcha soll aus einer beliebigen Anzahl von
             Bildausschnitten bestehen, die dem Nutzer in einem Rechteck angeordnet angezeigt werden sollen. 
             Der Nutzer hat die Möglichkeit die Art der Darstellung zu verändern. Je nach Usecase wählt er, ob die Teilbilder in Prozent oder Pixeln und die Anzahl der Bilder in Reihe und Spalte aus.
-            Nachdem das Raster ertellt wurde, hat der Nutzer die Möglichekeit über wenige klicks Teilbilder zusammen mit einem Label abzuspeichern. 
-            Im Vergleich zu anderen Herangehensweisen Objekte auf ihren Origninalbildern zu markieren, wie dem pixelgenauen Markieren über ein Polygonnetz, soll dieser Prozess mit
-            dem Grip-Tool besonders schnell ablaufen. Somit wird Genauigkeit der Annotation gegen
-            Geschwindigkeit eingetauscht.<br> Ich sollte mich mit Patologiebildern beschäftigen. Ziel war es Trainingsbilder für Künstliche inteligenzen zu erstellen.
+            Nachdem das Raster ertellt wurde, hat der Nutzer die Möglichekeit über wenige Klicks Teilbilder zusammen mit einem Label abzuspeichern. 
+            Im Vergleich zu anderen Herangehensweisen um Objekte auf ihren Origninalbildern zu markieren, wie dem pixelgenauen Markieren über ein Polygonnetz, soll dieser Prozess mit
+            dem Grip-Tool besonders schnell ablaufen. Somit wird Genauigkeit der Annotation gegen Geschwindigkeit eingetauscht.
+            <br> Ich sollte mich mit Pathologiebildern beschäftigen. Ziel war es Trainingsbilder für Künstliche Inteligenzen zu erstellen.
           </p>
 
           
@@ -80,8 +80,10 @@
             Online Signatur Anwendung Elsa:</p>
           <div id="myDIV2" style="display: none">
             <p>
-              Aufgabe dieser Projektarbeit war es für die deutsche Telekom in einer Gruppe von sieben Studierenden eine Online-Anwendung zu entwickeln, mit der mehrere Personen unkompliziert und schnell Dokumente über das Internet unterschreiben können sollen. 
-              Dabei wurde uns nur eine grobe Vorstellung vorgegeben, die Planung und genauere Umsetzung lag dabei in unseren Händen. Dies sollte unsere Kreativität anregen. Es fanden Kundengespräche statt in denen unsere Vorstellungen und Fragen abgesprochen wurden, um ein möglichst zufriedenstellendes Ergebnis liefern zu können.
+              Aufgabe dieser Projektarbeit war es, für die deutsche Telekom in einer Gruppe von sieben Studierenden eine Online-Anwendung zu entwickeln, 
+              mit der mehrere Personen unkompliziert und schnell Dokumente über das Internet unterschreiben können sollen. Dabei wurde uns nur eine grobe
+               Vorstellung vorgegeben, die Planung und genauere Umsetzung lag dabei in unseren Händen. Dies sollte unsere Kreativität anregen. Es fanden
+                Kundengespräche statt, in denen unsere Vorstellungen und Fragen abgesprochen wurden, um ein möglichst zufriedenstellendes Ergebnis liefern zu können.
               Während dieser Projektarbeit war Teamarbeit, eine gute Kommunikation und Dokumentation sehr wichtig. Wir setzten dabei die Scrum Methode ein.
             </p>
             <a href="https://drive.google.com/file/d/12sBbBDPBbgW-p0qrpVKA4QBEpGmCw3IM/view">Elsa PDF</a>
@@ -215,14 +217,11 @@ export default {
     }
     .center{
      text-align: center;
-    } 
-    .studies {
-      font-weight: bold;
-      font-weight: 600;
-      text-align: left;
-      padding-top: 1%;
+    }
+    .padding{
       padding-left: 5%;
-      padding-right:5%
+      padding-right:5%;
+      margin: 0%;
     }
     Footer{    
       font-weight: bold;

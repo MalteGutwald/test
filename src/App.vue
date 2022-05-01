@@ -6,7 +6,7 @@
 </template>
 
 <script>
-document.title = 'Mein neuer Titel';
+
 import Navbar from "./components/Layout/Navbar";
 export default {
     name:"app",

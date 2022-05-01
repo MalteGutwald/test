@@ -1,7 +1,7 @@
 <template>
 
 <div>
-  <h1 class="center">Über mich</h1>
+  <h3 class="center">Über mich</h3>
   <div class="padding">
     <div>
       <p>
