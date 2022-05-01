@@ -219,6 +219,7 @@ export default {
      text-align: center;
     }
     .padding{
+      padding-top: 5%;
       padding-left: 5%;
       padding-right:5%;
       margin: 0%;

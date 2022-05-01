@@ -28,11 +28,11 @@ export default {
       position: fixed;
       bottom: 0;
     }
-    /*
     #app{
-      background-image: url("https://www.pfotenspass.de/images/image/Homepagehintergrund/Hintergrund-Homepage-52.jpg");
+      background-image: 
+      url("https://images.ctfassets.net/go54bjdzbrgi/igaOfkY6iIUyyUKciiyIY/bd2d307fffd48bd0d523990166de0209/BACKGROUND_homepage_3D_mesh_2_fade.jpg");
       background-size: 100% 100%;
       background-repeat: no-repeat;
       height: 100vh;
-    }*/
+    }
 </style>
