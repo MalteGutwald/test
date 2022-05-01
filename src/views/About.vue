@@ -72,6 +72,7 @@ export default {
 </script>
 <style scoped>
     .padding{
+      padding-top: 5%;
       padding-left: 5%;
       padding-right:5%;
       margin: 0%;
