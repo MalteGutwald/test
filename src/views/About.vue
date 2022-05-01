@@ -5,9 +5,9 @@
   <div class="padding">
     <div>
       <p>
-        Hi, mein Name ist Malte Gutwald, ich bin 25 Jahre alt und angehender Webentwickler. Ich bin August 2007 – Juni 2015 zum Helmholtz Gymnasium Bielefeld
-        gegangen, wo ich mein Abitur gemacht habe. Oktober 2015 – März 2022 habe ich meinen Bachelor of Science an der Universität Bielefeld
-        in dem Studiengang Naturwissenschaftliche Informatik gemacht. Aktuell bin ich auf der Suche nach einer langfristigen Stelle. 
+        Mein Name ist Malte Gutwald, ich bin 25 Jahre alt und angehender Webentwickler. Von August 2007 bis Juni 2015 ging ich zum 
+        Helmholtz Gymnasium Bielefeld, wo ich mein Abitur gemacht habe. Oktober 2015 bis März 2022 habe ich meinen Bachelor of Science an der Universität Bielefeld
+        in dem Studiengang Naturwissenschaftliche Informatik abgeschlossen. Aktuell bin ich auf der Suche nach einer langfristigen Stelle. 
         Ich hoffe ich kann Sie von meinen Fähigkeiten überzeugen. 
       </p>  
       <p>
