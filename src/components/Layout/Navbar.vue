@@ -29,11 +29,11 @@ export default {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #32b37d;
+    background-color: #3e6e03;
     }
     li router-link {
         display: inline;
-        background-color: #32b37d;
+        background-color: #3e6e03;
     }
     li {
         float: left;
