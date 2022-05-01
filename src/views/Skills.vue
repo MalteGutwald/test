@@ -18,17 +18,17 @@
   
         <div id="myDIV1" style="display: none">
           <p>
-            Im Vorfeld meiner Arbeit wurde schon Vieles von den Entwicklern des Oberprojekts Biigle 2.0 geschaffen. Dabei handelt es sich um ein Online-Tool, 
+            Im Vorfeld meiner Arbeit wurde schon vieles von den Entwicklern des Oberprojekts Biigle 2.0 geschaffen. Dabei handelt es sich um ein Online-Tool, 
             dessen Fokus speziell auf der Annotation von Meeresbildern liegt.<br><br>In diesem Projekt erweiterte ich Biigle um eine weitere Anwendung. Diese Anwendung
             wurde Biigle-Grip benannt. Der Name Grip setzt sich dabei aus <strong>Gri</strong>d <strong>P</strong>atch-Annotation zusammen. Der Mittelpunkt 
-            dieser Arbeit konzentrierte sich dabei Teilbilder spezifischer Größe, zusammen mit einem Label, abzuspeichern. Dies soll der Klassizierung von
+            dieser Arbeit konzentrierte sich darauf Teilbilder spezifischer Größe, zusammen mit einem Label, abzuspeichern. Dies soll der Klassizierung von
             Interessensobjekten dienen. Ein Grip-Captcha soll aus einer beliebigen Anzahl von
             Bildausschnitten bestehen, die dem Nutzer in einem Rechteck angeordnet angezeigt werden sollen. 
             Der Nutzer hat die Möglichkeit die Art der Darstellung zu verändern. Je nach Usecase wählt er, ob die Teilbilder in Prozent oder Pixeln und die Anzahl der Bilder in Reihe und Spalte aus.
-            Nachdem das Raster ertellt wurde, hat der Nutzer die Möglichekeit über wenige Klicks Teilbilder zusammen mit einem Label abzuspeichern. 
+            Nachdem das Raster erstellt wurde, hat der Nutzer die Möglichkeit über wenige Klicks Teilbilder zusammen mit einem Label abzuspeichern. 
             Im Vergleich zu anderen Herangehensweisen um Objekte auf ihren Origninalbildern zu markieren, wie dem pixelgenauen Markieren über ein Polygonnetz, soll dieser Prozess mit
             dem Grip-Tool besonders schnell ablaufen. Somit wird Genauigkeit der Annotation gegen Geschwindigkeit eingetauscht.
-            <br> Ich sollte mich mit Pathologiebildern beschäftigen. Ziel war es Trainingsbilder für Künstliche Inteligenzen zu erstellen.
+            <br> Ich sollte mich mit Pathologiebildern beschäftigen. Ziel war es Trainingsbilder für Künstliche Intelligenzen zu erstellen.
           </p>
 
           
